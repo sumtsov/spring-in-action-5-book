@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.api.controller;
 
-import com.dsumtsov.tacocloud.domain.Ingredient;
+import com.dsumtsov.tacocloud.model.Ingredient;
 import com.dsumtsov.tacocloud.service.IngredientService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.CrossOrigin;

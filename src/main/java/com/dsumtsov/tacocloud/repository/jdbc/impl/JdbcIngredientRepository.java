@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.repository.jdbc.impl;
 
-import com.dsumtsov.tacocloud.domain.Ingredient;
+import com.dsumtsov.tacocloud.model.Ingredient;
 import com.dsumtsov.tacocloud.enums.IngredientType;
 import com.dsumtsov.tacocloud.repository.jdbc.IngredientRepository;
 import lombok.RequiredArgsConstructor;

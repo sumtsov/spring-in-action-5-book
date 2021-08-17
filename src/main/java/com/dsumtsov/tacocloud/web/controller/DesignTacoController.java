@@ -1,8 +1,8 @@
 package com.dsumtsov.tacocloud.web.controller;
 
-import com.dsumtsov.tacocloud.domain.Ingredient;
-import com.dsumtsov.tacocloud.domain.Order;
-import com.dsumtsov.tacocloud.domain.Taco;
+import com.dsumtsov.tacocloud.model.Ingredient;
+import com.dsumtsov.tacocloud.model.Order;
+import com.dsumtsov.tacocloud.model.Taco;
 import com.dsumtsov.tacocloud.enums.IngredientType;
 import com.dsumtsov.tacocloud.service.IngredientService;
 import com.dsumtsov.tacocloud.service.TacoService;

@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.web.converter;
 
-import com.dsumtsov.tacocloud.domain.Ingredient;
+import com.dsumtsov.tacocloud.model.Ingredient;
 import com.dsumtsov.tacocloud.repository.jpa.IngredientRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.convert.converter.Converter;

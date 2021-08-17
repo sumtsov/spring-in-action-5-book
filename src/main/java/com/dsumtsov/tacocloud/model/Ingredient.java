@@ -1,4 +1,4 @@
-package com.dsumtsov.tacocloud.domain;
+package com.dsumtsov.tacocloud.model;
 
 import com.dsumtsov.tacocloud.enums.IngredientType;
 import lombok.AllArgsConstructor;

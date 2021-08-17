@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.service;
 
-import com.dsumtsov.tacocloud.domain.User;
+import com.dsumtsov.tacocloud.model.User;
 import com.dsumtsov.tacocloud.security.RegistrationForm;
 import lombok.NonNull;
 

@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.repository.jdbc;
 
-import com.dsumtsov.tacocloud.domain.Order;
+import com.dsumtsov.tacocloud.model.Order;
 
 public interface OrderRepository {
 

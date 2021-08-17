@@ -1,7 +1,7 @@
 package com.dsumtsov.tacocloud.repository.jdbc.impl;
 
-import com.dsumtsov.tacocloud.domain.Ingredient;
-import com.dsumtsov.tacocloud.domain.Taco;
+import com.dsumtsov.tacocloud.model.Ingredient;
+import com.dsumtsov.tacocloud.model.Taco;
 import com.dsumtsov.tacocloud.repository.jdbc.TacoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.asm.Type;

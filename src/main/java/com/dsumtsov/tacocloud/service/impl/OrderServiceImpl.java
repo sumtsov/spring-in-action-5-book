@@ -1,8 +1,8 @@
 package com.dsumtsov.tacocloud.service.impl;
 
 import com.dsumtsov.tacocloud.config.properties.OrderProperties;
-import com.dsumtsov.tacocloud.domain.Order;
-import com.dsumtsov.tacocloud.domain.User;
+import com.dsumtsov.tacocloud.model.Order;
+import com.dsumtsov.tacocloud.model.User;
 import com.dsumtsov.tacocloud.mapper.OrderMapper;
 import com.dsumtsov.tacocloud.repository.jpa.OrderRepository;
 import com.dsumtsov.tacocloud.service.OrderService;
@@ -11,8 +11,6 @@ import lombok.RequiredArgsConstructor;
 import org.apache.commons.collections4.IterableUtils;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

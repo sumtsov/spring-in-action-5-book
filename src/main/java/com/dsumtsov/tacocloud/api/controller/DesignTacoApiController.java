@@ -2,7 +2,7 @@ package com.dsumtsov.tacocloud.api.controller;
 
 import com.dsumtsov.tacocloud.api.assembler.TacoModelAssembler;
 import com.dsumtsov.tacocloud.api.model.TacoModel;
-import com.dsumtsov.tacocloud.domain.Taco;
+import com.dsumtsov.tacocloud.model.Taco;
 import com.dsumtsov.tacocloud.service.TacoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.hateoas.CollectionModel;

@@ -1,7 +1,7 @@
 package com.dsumtsov.tacocloud.repository.jdbc.impl;
 
-import com.dsumtsov.tacocloud.domain.Order;
-import com.dsumtsov.tacocloud.domain.Taco;
+import com.dsumtsov.tacocloud.model.Order;
+import com.dsumtsov.tacocloud.model.Taco;
 import com.dsumtsov.tacocloud.repository.jdbc.OrderRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;

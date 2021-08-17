@@ -1,7 +1,7 @@
 package com.dsumtsov.tacocloud.service;
 
-import com.dsumtsov.tacocloud.domain.Order;
-import com.dsumtsov.tacocloud.domain.User;
+import com.dsumtsov.tacocloud.model.Order;
+import com.dsumtsov.tacocloud.model.User;
 import lombok.NonNull;
 
 import java.util.List;

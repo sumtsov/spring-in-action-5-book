@@ -1,4 +1,4 @@
-package com.dsumtsov.tacocloud.domain;
+package com.dsumtsov.tacocloud.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

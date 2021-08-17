@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.service;
 
-import com.dsumtsov.tacocloud.domain.Taco;
+import com.dsumtsov.tacocloud.model.Taco;
 import lombok.NonNull;
 
 import java.util.List;
