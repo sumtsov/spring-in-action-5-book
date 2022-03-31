@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.security;
 
-import com.dsumtsov.tacocloud.model.User;
+import com.dsumtsov.tacocloud.entity.User;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import lombok.Data;
 

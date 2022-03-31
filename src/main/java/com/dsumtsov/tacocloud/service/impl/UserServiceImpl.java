@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.service.impl;
 
-import com.dsumtsov.tacocloud.model.User;
+import com.dsumtsov.tacocloud.entity.User;
 import com.dsumtsov.tacocloud.repository.jpa.UserRepository;
 import com.dsumtsov.tacocloud.security.RegistrationForm;
 import com.dsumtsov.tacocloud.service.UserService;

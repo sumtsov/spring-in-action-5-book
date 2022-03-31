@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.mapper;
 
-import com.dsumtsov.tacocloud.model.Order;
+import com.dsumtsov.tacocloud.entity.Order;
 import org.mapstruct.BeanMapping;
 import org.mapstruct.Mapper;
 import org.mapstruct.MappingTarget;

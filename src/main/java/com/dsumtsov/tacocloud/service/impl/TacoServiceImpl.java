@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.service.impl;
 
-import com.dsumtsov.tacocloud.model.Taco;
+import com.dsumtsov.tacocloud.entity.Taco;
 import com.dsumtsov.tacocloud.repository.jpa.TacoRepository;
 import com.dsumtsov.tacocloud.service.TacoService;
 import lombok.NonNull;

@@ -1,7 +1,7 @@
 package com.dsumtsov.tacocloud.api.model;
 
 import com.dsumtsov.tacocloud.api.assembler.IngredientModelAssembler;
-import com.dsumtsov.tacocloud.model.Taco;
+import com.dsumtsov.tacocloud.entity.Taco;
 import lombok.Getter;
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.RepresentationModel;

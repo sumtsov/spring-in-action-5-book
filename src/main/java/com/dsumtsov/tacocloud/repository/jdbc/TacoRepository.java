@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.repository.jdbc;
 
-import com.dsumtsov.tacocloud.model.Taco;
+import com.dsumtsov.tacocloud.entity.Taco;
 
 public interface TacoRepository {
 

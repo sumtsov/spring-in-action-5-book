@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.repository.jdbc;
 
-import com.dsumtsov.tacocloud.model.Ingredient;
+import com.dsumtsov.tacocloud.entity.Ingredient;
 
 import java.util.List;
 import java.util.Optional;

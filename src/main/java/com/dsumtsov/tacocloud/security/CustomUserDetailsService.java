@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.security;
 
-import com.dsumtsov.tacocloud.model.User;
+import com.dsumtsov.tacocloud.entity.User;
 import com.dsumtsov.tacocloud.repository.jpa.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;

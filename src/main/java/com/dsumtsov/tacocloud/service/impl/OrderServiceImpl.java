@@ -1,8 +1,8 @@
 package com.dsumtsov.tacocloud.service.impl;
 
 import com.dsumtsov.tacocloud.config.properties.OrderProperties;
-import com.dsumtsov.tacocloud.model.Order;
-import com.dsumtsov.tacocloud.model.User;
+import com.dsumtsov.tacocloud.entity.Order;
+import com.dsumtsov.tacocloud.entity.User;
 import com.dsumtsov.tacocloud.mapper.OrderMapper;
 import com.dsumtsov.tacocloud.repository.jpa.OrderRepository;
 import com.dsumtsov.tacocloud.service.OrderService;

@@ -2,7 +2,7 @@ package com.dsumtsov.tacocloud.api.assembler;
 
 import com.dsumtsov.tacocloud.api.controller.IngredientApiController;
 import com.dsumtsov.tacocloud.api.model.IngredientModel;
-import com.dsumtsov.tacocloud.model.Ingredient;
+import com.dsumtsov.tacocloud.entity.Ingredient;
 import org.springframework.hateoas.server.mvc.RepresentationModelAssemblerSupport;
 
 public class IngredientModelAssembler

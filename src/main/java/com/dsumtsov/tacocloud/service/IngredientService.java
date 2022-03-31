@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.service;
 
-import com.dsumtsov.tacocloud.model.Ingredient;
+import com.dsumtsov.tacocloud.entity.Ingredient;
 
 public interface IngredientService {
 

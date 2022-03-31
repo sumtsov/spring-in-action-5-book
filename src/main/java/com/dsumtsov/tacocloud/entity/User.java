@@ -1,4 +1,4 @@
-package com.dsumtsov.tacocloud.model;
+package com.dsumtsov.tacocloud.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
 package com.dsumtsov.tacocloud.api.controller;
 
-import com.dsumtsov.tacocloud.model.Order;
+import com.dsumtsov.tacocloud.entity.Order;
 import com.dsumtsov.tacocloud.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.collections4.CollectionUtils;

@@ -1,7 +1,7 @@
 package com.dsumtsov.tacocloud.web.controller;
 
-import com.dsumtsov.tacocloud.model.Order;
-import com.dsumtsov.tacocloud.model.User;
+import com.dsumtsov.tacocloud.entity.Order;
+import com.dsumtsov.tacocloud.entity.User;
 import com.dsumtsov.tacocloud.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
